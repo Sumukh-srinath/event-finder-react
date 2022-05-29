@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "body": "Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi."
+    },
+    {
+        "id": 2,
+        "title": "Vestibulum lacinia arcu eget nulla.",
+        "body": "Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit."
+    },
+    {
+        "id": 3,
+        "title": "Sed dignissim lacinia nunc.",
+        "body": "Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor."
+    },
+    {
+        "id": 4,
+        "title": "Hello, World!",
+        "body": "This is a sample event."
+    },
+    {
+        "id": 5,
+        "title": "This is Earth Concert!",
+        "body": "The concert details for 'This is Earth'."
+    }
+]
